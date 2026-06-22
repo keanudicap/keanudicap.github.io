@@ -97,7 +97,7 @@ app.innerHTML = `
       <aside class="profile-panel" aria-label="Profile summary">
         <img
           class="portrait"
-          src="https://www.kth.se/files/avatar/fangkai"
+          src="/profile.jpg"
           alt="Fangkai Yang"
           width="240"
           height="240"
